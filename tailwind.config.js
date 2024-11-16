@@ -14,7 +14,7 @@ export default {
         643: '643px',
       },
       backgroundImage: {
-        heroImg: "url('./src/assets/images/hero-background.png')",
+        heroImg: "url('/src/assets/images/hero-background.png')",
       },
       colors: {
         primary: '#B88E2F',
