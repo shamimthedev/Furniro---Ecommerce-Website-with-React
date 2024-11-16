@@ -57,7 +57,7 @@ function App() {
       {/* Hero Section Start  */}
       <div
         id="hero_section"
-        className={"bg-heroImg bg-center bg-no-repeat pt-36 pb-28 mb-14 font-primary"}
+        className={"bg-heroImg bg-cover bg-center bg-no-repeat pt-36 pb-28 mb-14 font-primary"}
       >
         <Container>
           <div className="hero_content ml-auto max-w-643 bg-heroColor pt-16 px-10 pb-9 rounded-[10px]">
